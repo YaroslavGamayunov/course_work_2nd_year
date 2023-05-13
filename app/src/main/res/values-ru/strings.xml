@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TooDoo</string>
+    <string name="my_tasks">Мои дела</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="show_completed_tasks">Показать выполненные задачи</string>
+    <string name="show_task_info">Показать информацию о задаче</string>
+    <string name="task_edit_description_hint">Что надо сделать…</string>
+    <string name="priority">Важность</string>
+    <string name="complete_until">Сделать до</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="priority_high">!! Высокий</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_none">Нет</string>
+    <string name="datepicker_title">Выберите дату</string>
+    <string name="timepicker_title">Выберите время</string>
+    <string name="undo">Отменить</string>
+    <string name="task_deletion_dialog_title">Удалить задачу?</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Notifications !-->
+    <string name="daily_tasks_notification_channel_title">Утреннее уведомление о предстоящих задачах</string>
+    <string name="daily_tasks_notification_title">Задачи на сегодня</string>
+
+    <string name="task_sync_notification_channel_title">Уведомление о синхронизации с сервером</string>
+    <string name="task_sync_notification_title">Синхронизация задач с сервером…</string>
+
+    <plurals name="completed_task_count">
+        <item quantity="one">Выполнена %d задача</item>
+        <item quantity="few">Выполнено %d задачи</item>
+        <item quantity="many">Выполнено %d задач</item>
+        <item quantity="other">Выполнено %d задач</item>
+    </plurals>
+
+    <plurals name="deleted_task_count">
+        <item quantity="one">Удалена %d задача</item>
+        <item quantity="few">Удалено %d задачи</item>
+        <item quantity="many">Удалено %d задач</item>
+        <item quantity="other">Удалено %d задач</item>
+    </plurals>
+
+    <plurals name="dont_forget_to_complete_tasks">
+        <item quantity="one">Сегодня вам нужно сделать %d задачу, не забудьте!</item>
+        <item quantity="few">Сегодня вам нужно сделать %d задачи, не забудьте!</item>
+        <item quantity="many">Сегодня вам нужно сделать %d задач, не забудьте!</item>
+        <item quantity="other">Сегодня вам нужно сделать %d задач, не забудьте</item>
+    </plurals>
+
+</resources>

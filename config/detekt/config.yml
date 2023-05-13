@@ -1,0 +1,16 @@
+style:
+  MaxLineLength:
+    active: true
+    maxLineLength: 120
+  NewLineAtEndOfFile:
+    active: false
+  WildcardImport:
+    active: false
+
+naming:
+  FunctionNaming:
+    active: true
+    functionPattern: '^([a-zA-Z$][a-zA-Z$0-9]*)|(`.*`)$'
+
+build:
+  maxIssues: 10

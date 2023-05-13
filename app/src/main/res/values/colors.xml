@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#FFF7F6F2</color>
+    <color name="color_secondary">#FFFFFFFF</color>
+    <color name="elevated">#FFFFFFFF</color>
+
+    <color name="red">#FFFF3B30</color>
+    <color name="green">#FF34C759</color>
+    <color name="blue">#FF007AFF</color>
+    <color name="gray">#FF8E8E93</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="label_primary">#FF000000</color>
+    <color name="label_secondary">#99000000</color>
+    <color name="label_tertiary">#4D000000</color>
+    <color name="label_disable">#26000000</color>
+
+    <color name="separator">#33000000</color>
+    <color name="overlay">#0F000000</color>
+    <color name="status_scrim">#FFF7F6F2</color>
+    <color name="status_color">#FFF7F6F2</color>
+</resources>
